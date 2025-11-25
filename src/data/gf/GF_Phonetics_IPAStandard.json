@@ -1,0 +1,845 @@
+{
+  "name": "GF Phonetics IPA Standard",
+  "glyphs": [
+    {
+      "codepoints": [
+        124
+      ]
+    },
+    {
+      "codepoints": [
+        734
+      ]
+    },
+    {
+      "codepoints": [
+        736
+      ]
+    },
+    {
+      "codepoints": [
+        741
+      ]
+    },
+    {
+      "codepoints": [
+        742
+      ]
+    },
+    {
+      "codepoints": [
+        743
+      ]
+    },
+    {
+      "codepoints": [
+        744
+      ]
+    },
+    {
+      "codepoints": [
+        745
+      ]
+    },
+    {
+      "codepoints": [
+        755
+      ]
+    },
+    {
+      "codepoints": [
+        9676
+      ]
+    },
+    {
+      "codepoints": [
+        33
+      ]
+    },
+    {
+      "codepoints": [
+        46
+      ]
+    },
+    {
+      "codepoints": [
+        8214
+      ]
+    },
+    {
+      "codepoints": [
+        8255
+      ]
+    },
+    {
+      "codepoints": [
+        700
+      ]
+    },
+    {
+      "codepoints": [
+        705
+      ]
+    },
+    {
+      "codepoints": [
+        712
+      ]
+    },
+    {
+      "codepoints": [
+        716
+      ]
+    },
+    {
+      "codepoints": [
+        720
+      ]
+    },
+    {
+      "codepoints": [
+        721
+      ]
+    },
+    {
+      "codepoints": [
+        768
+      ]
+    },
+    {
+      "codepoints": [
+        769
+      ]
+    },
+    {
+      "codepoints": [
+        770
+      ]
+    },
+    {
+      "codepoints": [
+        771
+      ]
+    },
+    {
+      "codepoints": [
+        772
+      ]
+    },
+    {
+      "codepoints": [
+        773
+      ]
+    },
+    {
+      "codepoints": [
+        774
+      ]
+    },
+    {
+      "codepoints": [
+        776
+      ]
+    },
+    {
+      "codepoints": [
+        778
+      ]
+    },
+    {
+      "codepoints": [
+        779
+      ]
+    },
+    {
+      "codepoints": [
+        780
+      ]
+    },
+    {
+      "codepoints": [
+        783
+      ]
+    },
+    {
+      "codepoints": [
+        792
+      ]
+    },
+    {
+      "codepoints": [
+        793
+      ]
+    },
+    {
+      "codepoints": [
+        794
+      ]
+    },
+    {
+      "codepoints": [
+        796
+      ]
+    },
+    {
+      "codepoints": [
+        797
+      ]
+    },
+    {
+      "codepoints": [
+        798
+      ]
+    },
+    {
+      "codepoints": [
+        799
+      ]
+    },
+    {
+      "codepoints": [
+        800
+      ]
+    },
+    {
+      "codepoints": [
+        804
+      ]
+    },
+    {
+      "codepoints": [
+        805
+      ]
+    },
+    {
+      "codepoints": [
+        809
+      ]
+    },
+    {
+      "codepoints": [
+        810
+      ]
+    },
+    {
+      "codepoints": [
+        812
+      ]
+    },
+    {
+      "codepoints": [
+        815
+      ]
+    },
+    {
+      "codepoints": [
+        816
+      ]
+    },
+    {
+      "codepoints": [
+        818
+      ]
+    },
+    {
+      "codepoints": [
+        820
+      ]
+    },
+    {
+      "codepoints": [
+        825
+      ]
+    },
+    {
+      "codepoints": [
+        826
+      ]
+    },
+    {
+      "codepoints": [
+        827
+      ]
+    },
+    {
+      "codepoints": [
+        828
+      ]
+    },
+    {
+      "codepoints": [
+        829
+      ]
+    },
+    {
+      "codepoints": [
+        840
+      ]
+    },
+    {
+      "codepoints": [
+        860
+      ]
+    },
+    {
+      "codepoints": [
+        865
+      ]
+    },
+    {
+      "codepoints": [
+        7620
+      ]
+    },
+    {
+      "codepoints": [
+        7621
+      ]
+    },
+    {
+      "codepoints": [
+        7622
+      ]
+    },
+    {
+      "codepoints": [
+        7623
+      ]
+    },
+    {
+      "codepoints": [
+        7624
+      ]
+    },
+    {
+      "codepoints": [
+        7625
+      ]
+    },
+    {
+      "codepoints": [
+        230
+      ]
+    },
+    {
+      "codepoints": [
+        231
+      ]
+    },
+    {
+      "codepoints": [
+        240
+      ]
+    },
+    {
+      "codepoints": [
+        248
+      ]
+    },
+    {
+      "codepoints": [
+        295
+      ]
+    },
+    {
+      "codepoints": [
+        331
+      ]
+    },
+    {
+      "codepoints": [
+        339
+      ]
+    },
+    {
+      "codepoints": [
+        448
+      ]
+    },
+    {
+      "codepoints": [
+        449
+      ]
+    },
+    {
+      "codepoints": [
+        450
+      ]
+    },
+    {
+      "codepoints": [
+        451
+      ]
+    },
+    {
+      "codepoints": [
+        517
+      ]
+    },
+    {
+      "codepoints": [
+        592
+      ]
+    },
+    {
+      "codepoints": [
+        593
+      ]
+    },
+    {
+      "codepoints": [
+        594
+      ]
+    },
+    {
+      "codepoints": [
+        595
+      ]
+    },
+    {
+      "codepoints": [
+        596
+      ]
+    },
+    {
+      "codepoints": [
+        597
+      ]
+    },
+    {
+      "codepoints": [
+        598
+      ]
+    },
+    {
+      "codepoints": [
+        599
+      ]
+    },
+    {
+      "codepoints": [
+        600
+      ]
+    },
+    {
+      "codepoints": [
+        601
+      ]
+    },
+    {
+      "codepoints": [
+        602
+      ]
+    },
+    {
+      "codepoints": [
+        603
+      ]
+    },
+    {
+      "codepoints": [
+        604
+      ]
+    },
+    {
+      "codepoints": [
+        605
+      ]
+    },
+    {
+      "codepoints": [
+        606
+      ]
+    },
+    {
+      "codepoints": [
+        607
+      ]
+    },
+    {
+      "codepoints": [
+        608
+      ]
+    },
+    {
+      "codepoints": [
+        609
+      ]
+    },
+    {
+      "codepoints": [
+        610
+      ]
+    },
+    {
+      "codepoints": [
+        611
+      ]
+    },
+    {
+      "codepoints": [
+        612
+      ]
+    },
+    {
+      "codepoints": [
+        613
+      ]
+    },
+    {
+      "codepoints": [
+        614
+      ]
+    },
+    {
+      "codepoints": [
+        615
+      ]
+    },
+    {
+      "codepoints": [
+        616
+      ]
+    },
+    {
+      "codepoints": [
+        618
+      ]
+    },
+    {
+      "codepoints": [
+        619
+      ]
+    },
+    {
+      "codepoints": [
+        620
+      ]
+    },
+    {
+      "codepoints": [
+        621
+      ]
+    },
+    {
+      "codepoints": [
+        622
+      ]
+    },
+    {
+      "codepoints": [
+        623
+      ]
+    },
+    {
+      "codepoints": [
+        624
+      ]
+    },
+    {
+      "codepoints": [
+        625
+      ]
+    },
+    {
+      "codepoints": [
+        626
+      ]
+    },
+    {
+      "codepoints": [
+        627
+      ]
+    },
+    {
+      "codepoints": [
+        628
+      ]
+    },
+    {
+      "codepoints": [
+        629
+      ]
+    },
+    {
+      "codepoints": [
+        630
+      ]
+    },
+    {
+      "codepoints": [
+        632
+      ]
+    },
+    {
+      "codepoints": [
+        633
+      ]
+    },
+    {
+      "codepoints": [
+        634
+      ]
+    },
+    {
+      "codepoints": [
+        635
+      ]
+    },
+    {
+      "codepoints": [
+        637
+      ]
+    },
+    {
+      "codepoints": [
+        638
+      ]
+    },
+    {
+      "codepoints": [
+        640
+      ]
+    },
+    {
+      "codepoints": [
+        641
+      ]
+    },
+    {
+      "codepoints": [
+        642
+      ]
+    },
+    {
+      "codepoints": [
+        643
+      ]
+    },
+    {
+      "codepoints": [
+        644
+      ]
+    },
+    {
+      "codepoints": [
+        648
+      ]
+    },
+    {
+      "codepoints": [
+        649
+      ]
+    },
+    {
+      "codepoints": [
+        650
+      ]
+    },
+    {
+      "codepoints": [
+        651
+      ]
+    },
+    {
+      "codepoints": [
+        652
+      ]
+    },
+    {
+      "codepoints": [
+        653
+      ]
+    },
+    {
+      "codepoints": [
+        654
+      ]
+    },
+    {
+      "codepoints": [
+        655
+      ]
+    },
+    {
+      "codepoints": [
+        656
+      ]
+    },
+    {
+      "codepoints": [
+        657
+      ]
+    },
+    {
+      "codepoints": [
+        658
+      ]
+    },
+    {
+      "codepoints": [
+        660
+      ]
+    },
+    {
+      "codepoints": [
+        661
+      ]
+    },
+    {
+      "codepoints": [
+        664
+      ]
+    },
+    {
+      "codepoints": [
+        665
+      ]
+    },
+    {
+      "codepoints": [
+        667
+      ]
+    },
+    {
+      "codepoints": [
+        668
+      ]
+    },
+    {
+      "codepoints": [
+        669
+      ]
+    },
+    {
+      "codepoints": [
+        671
+      ]
+    },
+    {
+      "codepoints": [
+        673
+      ]
+    },
+    {
+      "codepoints": [
+        674
+      ]
+    },
+    {
+      "codepoints": [
+        688
+      ]
+    },
+    {
+      "codepoints": [
+        690
+      ]
+    },
+    {
+      "codepoints": [
+        695
+      ]
+    },
+    {
+      "codepoints": [
+        737
+      ]
+    },
+    {
+      "codepoints": [
+        946
+      ]
+    },
+    {
+      "codepoints": [
+        952
+      ]
+    },
+    {
+      "codepoints": [
+        967
+      ]
+    },
+    {
+      "codepoints": [
+        7532
+      ]
+    },
+    {
+      "codepoints": [
+        7533
+      ]
+    },
+    {
+      "codepoints": [
+        7534
+      ]
+    },
+    {
+      "codepoints": [
+        7535
+      ]
+    },
+    {
+      "codepoints": [
+        7536
+      ]
+    },
+    {
+      "codepoints": [
+        7537
+      ]
+    },
+    {
+      "codepoints": [
+        7538
+      ]
+    },
+    {
+      "codepoints": [
+        7539
+      ]
+    },
+    {
+      "codepoints": [
+        7540
+      ]
+    },
+    {
+      "codepoints": [
+        7541
+      ]
+    },
+    {
+      "codepoints": [
+        7542
+      ]
+    },
+    {
+      "codepoints": [
+        8319
+      ]
+    },
+    {
+      "codepoints": [
+        42779
+      ]
+    },
+    {
+      "codepoints": [
+        42780
+      ]
+    },
+    {
+      "codepoints": [
+        42933
+      ]
+    },
+    {
+      "codepoints": [
+        43859
+      ]
+    }
+  ]
+}

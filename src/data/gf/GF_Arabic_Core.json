@@ -1,0 +1,2271 @@
+{
+  "name": "GF Arabic Core",
+  "glyphs": [
+    {
+      "codepoints": [
+        9676
+      ]
+    },
+    {
+      "codepoints": [
+        36
+      ]
+    },
+    {
+      "codepoints": [
+        37
+      ]
+    },
+    {
+      "codepoints": [
+        38
+      ]
+    },
+    {
+      "codepoints": [
+        43
+      ]
+    },
+    {
+      "codepoints": [
+        60
+      ]
+    },
+    {
+      "codepoints": [
+        61
+      ]
+    },
+    {
+      "codepoints": [
+        62
+      ]
+    },
+    {
+      "codepoints": [
+        64
+      ]
+    },
+    {
+      "codepoints": [
+        94
+      ]
+    },
+    {
+      "codepoints": [
+        124
+      ]
+    },
+    {
+      "codepoints": [
+        126
+      ]
+    },
+    {
+      "codepoints": [
+        162
+      ]
+    },
+    {
+      "codepoints": [
+        163
+      ]
+    },
+    {
+      "codepoints": [
+        165
+      ]
+    },
+    {
+      "codepoints": [
+        169
+      ]
+    },
+    {
+      "codepoints": [
+        174
+      ]
+    },
+    {
+      "codepoints": [
+        176
+      ]
+    },
+    {
+      "codepoints": [
+        215
+      ]
+    },
+    {
+      "codepoints": [
+        247
+      ]
+    },
+    {
+      "codepoints": [
+        1545
+      ]
+    },
+    {
+      "codepoints": [
+        1642
+      ]
+    },
+    {
+      "codepoints": [
+        8364
+      ]
+    },
+    {
+      "codepoints": [
+        8482
+      ]
+    },
+    {
+      "codepoints": [
+        8722
+      ]
+    },
+    {
+      "codepoints": [
+        32
+      ]
+    },
+    {
+      "codepoints": [
+        160
+      ]
+    },
+    {
+      "codepoints": [
+        33
+      ]
+    },
+    {
+      "codepoints": [
+        34
+      ]
+    },
+    {
+      "codepoints": [
+        35
+      ]
+    },
+    {
+      "codepoints": [
+        39
+      ]
+    },
+    {
+      "codepoints": [
+        40
+      ]
+    },
+    {
+      "codepoints": [
+        41
+      ]
+    },
+    {
+      "codepoints": [
+        42
+      ]
+    },
+    {
+      "codepoints": [
+        44
+      ]
+    },
+    {
+      "codepoints": [
+        45
+      ]
+    },
+    {
+      "codepoints": [
+        46
+      ]
+    },
+    {
+      "codepoints": [
+        47
+      ]
+    },
+    {
+      "codepoints": [
+        58
+      ]
+    },
+    {
+      "codepoints": [
+        59
+      ]
+    },
+    {
+      "codepoints": [
+        63
+      ]
+    },
+    {
+      "codepoints": [
+        91
+      ]
+    },
+    {
+      "codepoints": [
+        92
+      ]
+    },
+    {
+      "codepoints": [
+        93
+      ]
+    },
+    {
+      "codepoints": [
+        95
+      ]
+    },
+    {
+      "codepoints": [
+        123
+      ]
+    },
+    {
+      "codepoints": [
+        125
+      ]
+    },
+    {
+      "codepoints": [
+        171
+      ]
+    },
+    {
+      "codepoints": [
+        183
+      ]
+    },
+    {
+      "codepoints": [
+        187
+      ]
+    },
+    {
+      "codepoints": [
+        1548
+      ]
+    },
+    {
+      "codepoints": [
+        1549
+      ]
+    },
+    {
+      "codepoints": [
+        1563
+      ]
+    },
+    {
+      "codepoints": [
+        1567
+      ]
+    },
+    {
+      "codepoints": [
+        1645
+      ]
+    },
+    {
+      "codepoints": [
+        1748
+      ]
+    },
+    {
+      "codepoints": [
+        8211
+      ]
+    },
+    {
+      "codepoints": [
+        8212
+      ]
+    },
+    {
+      "codepoints": [
+        8216
+      ]
+    },
+    {
+      "codepoints": [
+        8217
+      ]
+    },
+    {
+      "codepoints": [
+        8220
+      ]
+    },
+    {
+      "codepoints": [
+        8221
+      ]
+    },
+    {
+      "codepoints": [
+        8226
+      ]
+    },
+    {
+      "codepoints": [
+        8230
+      ]
+    },
+    {
+      "codepoints": [
+        8249
+      ]
+    },
+    {
+      "codepoints": [
+        8250
+      ]
+    },
+    {
+      "codepoints": [
+        64830
+      ]
+    },
+    {
+      "codepoints": [
+        64831
+      ]
+    },
+    {
+      "codepoints": [
+        1780
+      ],
+      "features": [
+        "urdu"
+      ]
+    },
+    {
+      "codepoints": [
+        1783
+      ],
+      "features": [
+        "urdu"
+      ]
+    },
+    {
+      "codepoints": [
+        48
+      ]
+    },
+    {
+      "codepoints": [
+        49
+      ]
+    },
+    {
+      "codepoints": [
+        50
+      ]
+    },
+    {
+      "codepoints": [
+        51
+      ]
+    },
+    {
+      "codepoints": [
+        52
+      ]
+    },
+    {
+      "codepoints": [
+        53
+      ]
+    },
+    {
+      "codepoints": [
+        54
+      ]
+    },
+    {
+      "codepoints": [
+        55
+      ]
+    },
+    {
+      "codepoints": [
+        56
+      ]
+    },
+    {
+      "codepoints": [
+        57
+      ]
+    },
+    {
+      "codepoints": [
+        1632
+      ]
+    },
+    {
+      "codepoints": [
+        1633
+      ]
+    },
+    {
+      "codepoints": [
+        1634
+      ]
+    },
+    {
+      "codepoints": [
+        1635
+      ]
+    },
+    {
+      "codepoints": [
+        1636
+      ]
+    },
+    {
+      "codepoints": [
+        1637
+      ]
+    },
+    {
+      "codepoints": [
+        1638
+      ]
+    },
+    {
+      "codepoints": [
+        1639
+      ]
+    },
+    {
+      "codepoints": [
+        1640
+      ]
+    },
+    {
+      "codepoints": [
+        1641
+      ]
+    },
+    {
+      "codepoints": [
+        1643
+      ]
+    },
+    {
+      "codepoints": [
+        1644
+      ]
+    },
+    {
+      "codepoints": [
+        1776
+      ]
+    },
+    {
+      "codepoints": [
+        1777
+      ]
+    },
+    {
+      "codepoints": [
+        1778
+      ]
+    },
+    {
+      "codepoints": [
+        1779
+      ]
+    },
+    {
+      "codepoints": [
+        1780
+      ]
+    },
+    {
+      "codepoints": [
+        1781
+      ]
+    },
+    {
+      "codepoints": [
+        1782
+      ]
+    },
+    {
+      "codepoints": [
+        1783
+      ]
+    },
+    {
+      "codepoints": [
+        1784
+      ]
+    },
+    {
+      "codepoints": [
+        1785
+      ]
+    },
+    {
+      "codepoints": [
+        1557
+      ]
+    },
+    {
+      "codepoints": [
+        1622
+      ]
+    },
+    {
+      "codepoints": [
+        1620,
+        1615
+      ]
+    },
+    {
+      "codepoints": [
+        1620,
+        1612
+      ]
+    },
+    {
+      "codepoints": [
+        1620,
+        1614
+      ]
+    },
+    {
+      "codepoints": [
+        1620,
+        1611
+      ]
+    },
+    {
+      "codepoints": [
+        1620,
+        1618
+      ]
+    },
+    {
+      "codepoints": [
+        1621,
+        1616
+      ]
+    },
+    {
+      "codepoints": [
+        1621,
+        1613
+      ]
+    },
+    {
+      "codepoints": [
+        1617,
+        1611
+      ]
+    },
+    {
+      "codepoints": [
+        1617,
+        1612
+      ]
+    },
+    {
+      "codepoints": [
+        1617,
+        1613
+      ]
+    },
+    {
+      "codepoints": [
+        1617,
+        1614
+      ]
+    },
+    {
+      "codepoints": [
+        1617,
+        1615
+      ]
+    },
+    {
+      "codepoints": [
+        1617,
+        1616
+      ]
+    },
+    {
+      "codepoints": [
+        1617,
+        1648
+      ]
+    },
+    {
+      "codepoints": [
+        1624
+      ]
+    },
+    {
+      "codepoints": [
+        1755
+      ]
+    },
+    {
+      "codepoints": [
+        96
+      ]
+    },
+    {
+      "codepoints": [
+        1611
+      ]
+    },
+    {
+      "codepoints": [
+        1612
+      ]
+    },
+    {
+      "codepoints": [
+        1613
+      ]
+    },
+    {
+      "codepoints": [
+        1614
+      ]
+    },
+    {
+      "codepoints": [
+        1615
+      ]
+    },
+    {
+      "codepoints": [
+        1616
+      ]
+    },
+    {
+      "codepoints": [
+        1617
+      ]
+    },
+    {
+      "codepoints": [
+        1618
+      ]
+    },
+    {
+      "codepoints": [
+        1619
+      ]
+    },
+    {
+      "codepoints": [
+        1620
+      ]
+    },
+    {
+      "codepoints": [
+        1621
+      ]
+    },
+    {
+      "codepoints": [
+        1648
+      ]
+    },
+    {
+      "codepoints": [
+        1649
+      ]
+    },
+    {
+      "codepoints": [
+        1649
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1646
+      ]
+    },
+    {
+      "codepoints": [
+        1646
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1646
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1646
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1697
+      ]
+    },
+    {
+      "codepoints": [
+        1697
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1697
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1697
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1647
+      ]
+    },
+    {
+      "codepoints": [
+        1647
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1647
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1647
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1722
+      ]
+    },
+    {
+      "codepoints": [
+        1722
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1722
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1722
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1604,
+        1575
+      ]
+    },
+    {
+      "codepoints": [
+        1604,
+        1571
+      ]
+    },
+    {
+      "codepoints": [
+        1604,
+        1573
+      ]
+    },
+    {
+      "codepoints": [
+        1604,
+        1570
+      ]
+    },
+    {
+      "codepoints": [
+        1604,
+        1649
+      ]
+    },
+    {
+      "codepoints": [
+        65
+      ]
+    },
+    {
+      "codepoints": [
+        66
+      ]
+    },
+    {
+      "codepoints": [
+        67
+      ]
+    },
+    {
+      "codepoints": [
+        68
+      ]
+    },
+    {
+      "codepoints": [
+        69
+      ]
+    },
+    {
+      "codepoints": [
+        70
+      ]
+    },
+    {
+      "codepoints": [
+        71
+      ]
+    },
+    {
+      "codepoints": [
+        72
+      ]
+    },
+    {
+      "codepoints": [
+        73
+      ]
+    },
+    {
+      "codepoints": [
+        74
+      ]
+    },
+    {
+      "codepoints": [
+        75
+      ]
+    },
+    {
+      "codepoints": [
+        76
+      ]
+    },
+    {
+      "codepoints": [
+        77
+      ]
+    },
+    {
+      "codepoints": [
+        78
+      ]
+    },
+    {
+      "codepoints": [
+        79
+      ]
+    },
+    {
+      "codepoints": [
+        80
+      ]
+    },
+    {
+      "codepoints": [
+        81
+      ]
+    },
+    {
+      "codepoints": [
+        82
+      ]
+    },
+    {
+      "codepoints": [
+        83
+      ]
+    },
+    {
+      "codepoints": [
+        84
+      ]
+    },
+    {
+      "codepoints": [
+        85
+      ]
+    },
+    {
+      "codepoints": [
+        86
+      ]
+    },
+    {
+      "codepoints": [
+        87
+      ]
+    },
+    {
+      "codepoints": [
+        88
+      ]
+    },
+    {
+      "codepoints": [
+        89
+      ]
+    },
+    {
+      "codepoints": [
+        90
+      ]
+    },
+    {
+      "codepoints": [
+        97
+      ]
+    },
+    {
+      "codepoints": [
+        98
+      ]
+    },
+    {
+      "codepoints": [
+        99
+      ]
+    },
+    {
+      "codepoints": [
+        100
+      ]
+    },
+    {
+      "codepoints": [
+        101
+      ]
+    },
+    {
+      "codepoints": [
+        102
+      ]
+    },
+    {
+      "codepoints": [
+        103
+      ]
+    },
+    {
+      "codepoints": [
+        104
+      ]
+    },
+    {
+      "codepoints": [
+        105
+      ]
+    },
+    {
+      "codepoints": [
+        106
+      ]
+    },
+    {
+      "codepoints": [
+        107
+      ]
+    },
+    {
+      "codepoints": [
+        108
+      ]
+    },
+    {
+      "codepoints": [
+        109
+      ]
+    },
+    {
+      "codepoints": [
+        110
+      ]
+    },
+    {
+      "codepoints": [
+        111
+      ]
+    },
+    {
+      "codepoints": [
+        112
+      ]
+    },
+    {
+      "codepoints": [
+        113
+      ]
+    },
+    {
+      "codepoints": [
+        114
+      ]
+    },
+    {
+      "codepoints": [
+        115
+      ]
+    },
+    {
+      "codepoints": [
+        116
+      ]
+    },
+    {
+      "codepoints": [
+        117
+      ]
+    },
+    {
+      "codepoints": [
+        118
+      ]
+    },
+    {
+      "codepoints": [
+        119
+      ]
+    },
+    {
+      "codepoints": [
+        120
+      ]
+    },
+    {
+      "codepoints": [
+        121
+      ]
+    },
+    {
+      "codepoints": [
+        122
+      ]
+    },
+    {
+      "codepoints": [
+        1569
+      ]
+    },
+    {
+      "codepoints": [
+        1570
+      ]
+    },
+    {
+      "codepoints": [
+        1570
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1571
+      ]
+    },
+    {
+      "codepoints": [
+        1571
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1572
+      ]
+    },
+    {
+      "codepoints": [
+        1572
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1573
+      ]
+    },
+    {
+      "codepoints": [
+        1573
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1574
+      ]
+    },
+    {
+      "codepoints": [
+        1574
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1574
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1574
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1575
+      ]
+    },
+    {
+      "codepoints": [
+        1575
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1576
+      ]
+    },
+    {
+      "codepoints": [
+        1576
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1576
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1576
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1577
+      ]
+    },
+    {
+      "codepoints": [
+        1577
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1578
+      ]
+    },
+    {
+      "codepoints": [
+        1578
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1578
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1578
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1579
+      ]
+    },
+    {
+      "codepoints": [
+        1579
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1579
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1579
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1580
+      ]
+    },
+    {
+      "codepoints": [
+        1580
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1580
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1580
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1581
+      ]
+    },
+    {
+      "codepoints": [
+        1581
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1581
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1581
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1582
+      ]
+    },
+    {
+      "codepoints": [
+        1582
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1582
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1582
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1583
+      ]
+    },
+    {
+      "codepoints": [
+        1583
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1584
+      ]
+    },
+    {
+      "codepoints": [
+        1584
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1585
+      ]
+    },
+    {
+      "codepoints": [
+        1585
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1586
+      ]
+    },
+    {
+      "codepoints": [
+        1586
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1587
+      ]
+    },
+    {
+      "codepoints": [
+        1587
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1587
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1587
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1588
+      ]
+    },
+    {
+      "codepoints": [
+        1588
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1588
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1588
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1589
+      ]
+    },
+    {
+      "codepoints": [
+        1589
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1589
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1589
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1590
+      ]
+    },
+    {
+      "codepoints": [
+        1590
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1590
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1590
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1591
+      ]
+    },
+    {
+      "codepoints": [
+        1591
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1591
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1591
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1592
+      ]
+    },
+    {
+      "codepoints": [
+        1592
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1592
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1592
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1593
+      ]
+    },
+    {
+      "codepoints": [
+        1593
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1593
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1593
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1594
+      ]
+    },
+    {
+      "codepoints": [
+        1594
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1594
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1594
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1600
+      ]
+    },
+    {
+      "codepoints": [
+        1601
+      ]
+    },
+    {
+      "codepoints": [
+        1601
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1601
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1601
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1602
+      ]
+    },
+    {
+      "codepoints": [
+        1602
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1602
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1602
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1603
+      ]
+    },
+    {
+      "codepoints": [
+        1603
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1603
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1603
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1604
+      ]
+    },
+    {
+      "codepoints": [
+        1604
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1604
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1604
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1605
+      ]
+    },
+    {
+      "codepoints": [
+        1605
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1605
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1605
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1606
+      ]
+    },
+    {
+      "codepoints": [
+        1606
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1606
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1606
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1607
+      ]
+    },
+    {
+      "codepoints": [
+        1607
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1607
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1607
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1608
+      ]
+    },
+    {
+      "codepoints": [
+        1608
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1609
+      ]
+    },
+    {
+      "codepoints": [
+        1609
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1609
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1609
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1610
+      ]
+    },
+    {
+      "codepoints": [
+        1610
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1610
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1610
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1657
+      ]
+    },
+    {
+      "codepoints": [
+        1657
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1657
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1657
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1662
+      ]
+    },
+    {
+      "codepoints": [
+        1662
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1662
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1662
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1670
+      ]
+    },
+    {
+      "codepoints": [
+        1670
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1670
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1670
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1672
+      ]
+    },
+    {
+      "codepoints": [
+        1672
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1681
+      ]
+    },
+    {
+      "codepoints": [
+        1681
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1688
+      ]
+    },
+    {
+      "codepoints": [
+        1688
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1705
+      ]
+    },
+    {
+      "codepoints": [
+        1705
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1705
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1705
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1711
+      ]
+    },
+    {
+      "codepoints": [
+        1711
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1711
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1711
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1726
+      ]
+    },
+    {
+      "codepoints": [
+        1726
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1726
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1726
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1729
+      ]
+    },
+    {
+      "codepoints": [
+        1729
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1729
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1729
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1740
+      ]
+    },
+    {
+      "codepoints": [
+        1740
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1740
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1740
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1746
+      ]
+    },
+    {
+      "codepoints": [
+        1746
+      ],
+      "features": [
+        "fina"
+      ]
+    },
+    {
+      "codepoints": [
+        1891
+      ]
+    },
+    {
+      "codepoints": [
+        1891
+      ],
+      "features": [
+        "init"
+      ]
+    },
+    {
+      "codepoints": [
+        1891
+      ],
+      "features": [
+        "medi"
+      ]
+    },
+    {
+      "codepoints": [
+        1891
+      ],
+      "features": [
+        "fina"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,803 @@
+{
+  "name": "GF Latin Plus",
+  "glyphs": [
+    {
+      "codepoints": [
+        166
+      ]
+    },
+    {
+      "codepoints": [
+        172
+      ]
+    },
+    {
+      "codepoints": [
+        177
+      ]
+    },
+    {
+      "codepoints": [
+        181
+      ]
+    },
+    {
+      "codepoints": [
+        3647
+      ]
+    },
+    {
+      "codepoints": [
+        8224
+      ]
+    },
+    {
+      "codepoints": [
+        8225
+      ]
+    },
+    {
+      "codepoints": [
+        8240
+      ]
+    },
+    {
+      "codepoints": [
+        8242
+      ]
+    },
+    {
+      "codepoints": [
+        8243
+      ]
+    },
+    {
+      "codepoints": [
+        8353
+      ]
+    },
+    {
+      "codepoints": [
+        8358
+      ]
+    },
+    {
+      "codepoints": [
+        8360
+      ]
+    },
+    {
+      "codepoints": [
+        8361
+      ]
+    },
+    {
+      "codepoints": [
+        8362
+      ]
+    },
+    {
+      "codepoints": [
+        8363
+      ]
+    },
+    {
+      "codepoints": [
+        8365
+      ]
+    },
+    {
+      "codepoints": [
+        8366
+      ]
+    },
+    {
+      "codepoints": [
+        8369
+      ]
+    },
+    {
+      "codepoints": [
+        8370
+      ]
+    },
+    {
+      "codepoints": [
+        8372
+      ]
+    },
+    {
+      "codepoints": [
+        8373
+      ]
+    },
+    {
+      "codepoints": [
+        8376
+      ]
+    },
+    {
+      "codepoints": [
+        8377
+      ]
+    },
+    {
+      "codepoints": [
+        8378
+      ]
+    },
+    {
+      "codepoints": [
+        8380
+      ]
+    },
+    {
+      "codepoints": [
+        8381
+      ]
+    },
+    {
+      "codepoints": [
+        8382
+      ]
+    },
+    {
+      "codepoints": [
+        8383
+      ]
+    },
+    {
+      "codepoints": [
+        8467
+      ]
+    },
+    {
+      "codepoints": [
+        8470
+      ]
+    },
+    {
+      "codepoints": [
+        8486
+      ]
+    },
+    {
+      "codepoints": [
+        8494
+      ]
+    },
+    {
+      "codepoints": [
+        8592
+      ]
+    },
+    {
+      "codepoints": [
+        8593
+      ]
+    },
+    {
+      "codepoints": [
+        8594
+      ]
+    },
+    {
+      "codepoints": [
+        8595
+      ]
+    },
+    {
+      "codepoints": [
+        8596
+      ]
+    },
+    {
+      "codepoints": [
+        8597
+      ]
+    },
+    {
+      "codepoints": [
+        8598
+      ]
+    },
+    {
+      "codepoints": [
+        8599
+      ]
+    },
+    {
+      "codepoints": [
+        8600
+      ]
+    },
+    {
+      "codepoints": [
+        8601
+      ]
+    },
+    {
+      "codepoints": [
+        8706
+      ]
+    },
+    {
+      "codepoints": [
+        8709
+      ]
+    },
+    {
+      "codepoints": [
+        8710
+      ]
+    },
+    {
+      "codepoints": [
+        8719
+      ]
+    },
+    {
+      "codepoints": [
+        8721
+      ]
+    },
+    {
+      "codepoints": [
+        8730
+      ]
+    },
+    {
+      "codepoints": [
+        8734
+      ]
+    },
+    {
+      "codepoints": [
+        8747
+      ]
+    },
+    {
+      "codepoints": [
+        8776
+      ]
+    },
+    {
+      "codepoints": [
+        8800
+      ]
+    },
+    {
+      "codepoints": [
+        8804
+      ]
+    },
+    {
+      "codepoints": [
+        8805
+      ]
+    },
+    {
+      "codepoints": [
+        9401
+      ]
+    },
+    {
+      "codepoints": [
+        9632
+      ]
+    },
+    {
+      "codepoints": [
+        9633
+      ]
+    },
+    {
+      "codepoints": [
+        9642
+      ]
+    },
+    {
+      "codepoints": [
+        9643
+      ]
+    },
+    {
+      "codepoints": [
+        9650
+      ]
+    },
+    {
+      "codepoints": [
+        9651
+      ]
+    },
+    {
+      "codepoints": [
+        9652
+      ]
+    },
+    {
+      "codepoints": [
+        9653
+      ]
+    },
+    {
+      "codepoints": [
+        9654
+      ]
+    },
+    {
+      "codepoints": [
+        9655
+      ]
+    },
+    {
+      "codepoints": [
+        9656
+      ]
+    },
+    {
+      "codepoints": [
+        9657
+      ]
+    },
+    {
+      "codepoints": [
+        9660
+      ]
+    },
+    {
+      "codepoints": [
+        9661
+      ]
+    },
+    {
+      "codepoints": [
+        9662
+      ]
+    },
+    {
+      "codepoints": [
+        9663
+      ]
+    },
+    {
+      "codepoints": [
+        9664
+      ]
+    },
+    {
+      "codepoints": [
+        9665
+      ]
+    },
+    {
+      "codepoints": [
+        9666
+      ]
+    },
+    {
+      "codepoints": [
+        9667
+      ]
+    },
+    {
+      "codepoints": [
+        9670
+      ]
+    },
+    {
+      "codepoints": [
+        9671
+      ]
+    },
+    {
+      "codepoints": [
+        9674
+      ]
+    },
+    {
+      "codepoints": [
+        9675
+      ]
+    },
+    {
+      "codepoints": [
+        9679
+      ]
+    },
+    {
+      "codepoints": [
+        9702
+      ]
+    },
+    {
+      "codepoints": [
+        8214
+      ]
+    },
+    {
+      "codepoints": [
+        10216
+      ]
+    },
+    {
+      "codepoints": [
+        10217
+      ]
+    },
+    {
+      "codepoints": [
+        178
+      ]
+    },
+    {
+      "codepoints": [
+        179
+      ]
+    },
+    {
+      "codepoints": [
+        185
+      ]
+    },
+    {
+      "codepoints": [
+        188
+      ]
+    },
+    {
+      "codepoints": [
+        189
+      ]
+    },
+    {
+      "codepoints": [
+        190
+      ]
+    },
+    {
+      "codepoints": [
+        8260
+      ]
+    },
+    {
+      "codepoints": [
+        8308
+      ]
+    },
+    {
+      "codepoints": [
+        8309
+      ]
+    },
+    {
+      "codepoints": [
+        8310
+      ]
+    },
+    {
+      "codepoints": [
+        8311
+      ]
+    },
+    {
+      "codepoints": [
+        8312
+      ]
+    },
+    {
+      "codepoints": [
+        8313
+      ]
+    },
+    {
+      "codepoints": [
+        8321
+      ]
+    },
+    {
+      "codepoints": [
+        8322
+      ]
+    },
+    {
+      "codepoints": [
+        8323
+      ]
+    },
+    {
+      "codepoints": [
+        8324
+      ]
+    },
+    {
+      "codepoints": [
+        8325
+      ]
+    },
+    {
+      "codepoints": [
+        8326
+      ]
+    },
+    {
+      "codepoints": [
+        8327
+      ]
+    },
+    {
+      "codepoints": [
+        8328
+      ]
+    },
+    {
+      "codepoints": [
+        8329
+      ]
+    },
+    {
+      "codepoints": [
+        8531
+      ]
+    },
+    {
+      "codepoints": [
+        8532
+      ]
+    },
+    {
+      "codepoints": [
+        48
+      ],
+      "features": [
+        "zero"
+      ]
+    },
+    {
+      "codepoints": [
+        48
+      ],
+      "features": [
+        "tnum"
+      ]
+    },
+    {
+      "codepoints": [
+        49
+      ],
+      "features": [
+        "tnum"
+      ]
+    },
+    {
+      "codepoints": [
+        50
+      ],
+      "features": [
+        "tnum"
+      ]
+    },
+    {
+      "codepoints": [
+        51
+      ],
+      "features": [
+        "tnum"
+      ]
+    },
+    {
+      "codepoints": [
+        52
+      ],
+      "features": [
+        "tnum"
+      ]
+    },
+    {
+      "codepoints": [
+        53
+      ],
+      "features": [
+        "tnum"
+      ]
+    },
+    {
+      "codepoints": [
+        54
+      ],
+      "features": [
+        "tnum"
+      ]
+    },
+    {
+      "codepoints": [
+        55
+      ],
+      "features": [
+        "tnum"
+      ]
+    },
+    {
+      "codepoints": [
+        56
+      ],
+      "features": [
+        "tnum"
+      ]
+    },
+    {
+      "codepoints": [
+        57
+      ],
+      "features": [
+        "tnum"
+      ]
+    },
+    {
+      "codepoints": [
+        48
+      ],
+      "features": [
+        "dnom"
+      ]
+    },
+    {
+      "codepoints": [
+        49
+      ],
+      "features": [
+        "dnom"
+      ]
+    },
+    {
+      "codepoints": [
+        50
+      ],
+      "features": [
+        "dnom"
+      ]
+    },
+    {
+      "codepoints": [
+        51
+      ],
+      "features": [
+        "dnom"
+      ]
+    },
+    {
+      "codepoints": [
+        52
+      ],
+      "features": [
+        "dnom"
+      ]
+    },
+    {
+      "codepoints": [
+        53
+      ],
+      "features": [
+        "dnom"
+      ]
+    },
+    {
+      "codepoints": [
+        54
+      ],
+      "features": [
+        "dnom"
+      ]
+    },
+    {
+      "codepoints": [
+        55
+      ],
+      "features": [
+        "dnom"
+      ]
+    },
+    {
+      "codepoints": [
+        56
+      ],
+      "features": [
+        "dnom"
+      ]
+    },
+    {
+      "codepoints": [
+        57
+      ],
+      "features": [
+        "dnom"
+      ]
+    },
+    {
+      "codepoints": [
+        48
+      ],
+      "features": [
+        "numr"
+      ]
+    },
+    {
+      "codepoints": [
+        49
+      ],
+      "features": [
+        "numr"
+      ]
+    },
+    {
+      "codepoints": [
+        50
+      ],
+      "features": [
+        "numr"
+      ]
+    },
+    {
+      "codepoints": [
+        51
+      ],
+      "features": [
+        "numr"
+      ]
+    },
+    {
+      "codepoints": [
+        52
+      ],
+      "features": [
+        "numr"
+      ]
+    },
+    {
+      "codepoints": [
+        53
+      ],
+      "features": [
+        "numr"
+      ]
+    },
+    {
+      "codepoints": [
+        54
+      ],
+      "features": [
+        "numr"
+      ]
+    },
+    {
+      "codepoints": [
+        55
+      ],
+      "features": [
+        "numr"
+      ]
+    },
+    {
+      "codepoints": [
+        56
+      ],
+      "features": [
+        "numr"
+      ]
+    },
+    {
+      "codepoints": [
+        57
+      ],
+      "features": [
+        "numr"
+      ]
+    },
+    {
+      "codepoints": [
+        960
+      ]
+    }
+  ]
+}

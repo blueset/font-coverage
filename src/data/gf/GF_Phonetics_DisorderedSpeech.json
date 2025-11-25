@@ -1,0 +1,370 @@
+{
+  "name": "GF Phonetics Disordered Speech",
+  "glyphs": [
+    {
+      "codepoints": [
+        122631
+      ]
+    },
+    {
+      "codepoints": [
+        122630
+      ]
+    },
+    {
+      "codepoints": [
+        122629
+      ]
+    },
+    {
+      "codepoints": [
+        122628
+      ]
+    },
+    {
+      "codepoints": [
+        122627
+      ]
+    },
+    {
+      "codepoints": [
+        122626
+      ]
+    },
+    {
+      "codepoints": [
+        122625
+      ]
+    },
+    {
+      "codepoints": [
+        122624
+      ]
+    },
+    {
+      "codepoints": [
+        748
+      ]
+    },
+    {
+      "codepoints": [
+        749
+      ]
+    },
+    {
+      "codepoints": [
+        9400
+      ]
+    },
+    {
+      "codepoints": [
+        9403
+      ]
+    },
+    {
+      "codepoints": [
+        9404
+      ]
+    },
+    {
+      "codepoints": [
+        9409
+      ]
+    },
+    {
+      "codepoints": [
+        9411
+      ]
+    },
+    {
+      "codepoints": [
+        9413
+      ]
+    },
+    {
+      "codepoints": [
+        9415
+      ]
+    },
+    {
+      "codepoints": [
+        9416
+      ]
+    },
+    {
+      "codepoints": [
+        9417
+      ]
+    },
+    {
+      "codepoints": [
+        9419
+      ]
+    },
+    {
+      "codepoints": [
+        9711
+      ]
+    },
+    {
+      "codepoints": [
+        33
+      ]
+    },
+    {
+      "codepoints": [
+        42
+      ]
+    },
+    {
+      "codepoints": [
+        161
+      ]
+    },
+    {
+      "codepoints": [
+        8333
+      ]
+    },
+    {
+      "codepoints": [
+        8334
+      ]
+    },
+    {
+      "codepoints": [
+        838
+      ]
+    },
+    {
+      "codepoints": [
+        839
+      ]
+    },
+    {
+      "codepoints": [
+        841
+      ]
+    },
+    {
+      "codepoints": [
+        842
+      ]
+    },
+    {
+      "codepoints": [
+        843
+      ]
+    },
+    {
+      "codepoints": [
+        844
+      ]
+    },
+    {
+      "codepoints": [
+        845
+      ]
+    },
+    {
+      "codepoints": [
+        846
+      ]
+    },
+    {
+      "codepoints": [
+        852
+      ]
+    },
+    {
+      "codepoints": [
+        853
+      ]
+    },
+    {
+      "codepoints": [
+        866
+      ]
+    },
+    {
+      "codepoints": [
+        6843
+      ]
+    },
+    {
+      "codepoints": [
+        6845
+      ]
+    },
+    {
+      "codepoints": [
+        6849
+      ]
+    },
+    {
+      "codepoints": [
+        6850
+      ]
+    },
+    {
+      "codepoints": [
+        6851
+      ]
+    },
+    {
+      "codepoints": [
+        6852
+      ]
+    },
+    {
+      "codepoints": [
+        681
+      ]
+    },
+    {
+      "codepoints": [
+        682
+      ]
+    },
+    {
+      "codepoints": [
+        683
+      ]
+    },
+    {
+      "codepoints": [
+        684
+      ]
+    },
+    {
+      "codepoints": [
+        685
+      ]
+    },
+    {
+      "codepoints": [
+        692
+      ]
+    },
+    {
+      "codepoints": [
+        738
+      ]
+    },
+    {
+      "codepoints": [
+        7482
+      ]
+    },
+    {
+      "codepoints": [
+        7498
+      ]
+    },
+    {
+      "codepoints": [
+        42894
+      ]
+    },
+    {
+      "codepoints": [
+        42927
+      ]
+    },
+    {
+      "codepoints": [
+        42928
+      ]
+    },
+    {
+      "codepoints": [
+        67472
+      ]
+    },
+    {
+      "codepoints": [
+        67481
+      ]
+    },
+    {
+      "codepoints": [
+        67482
+      ]
+    },
+    {
+      "codepoints": [
+        67484
+      ]
+    },
+    {
+      "codepoints": [
+        67485
+      ]
+    },
+    {
+      "codepoints": [
+        67487
+      ]
+    },
+    {
+      "codepoints": [
+        67489
+      ]
+    },
+    {
+      "codepoints": [
+        67498
+      ]
+    },
+    {
+      "codepoints": [
+        119891
+      ]
+    },
+    {
+      "codepoints": [
+        119901
+      ]
+    },
+    {
+      "codepoints": [
+        42928
+      ],
+      "gfVariants": [
+        "circled"
+      ]
+    },
+    {
+      "codepoints": [
+        119891
+      ],
+      "features": [
+        "subs"
+      ]
+    },
+    {
+      "codepoints": [
+        119901
+      ],
+      "features": [
+        "subs"
+      ]
+    },
+    {
+      "codepoints": [
+        119891
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        119901
+      ],
+      "features": [
+        "sups"
+      ]
+    }
+  ]
+}

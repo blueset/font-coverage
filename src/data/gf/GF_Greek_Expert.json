@@ -1,0 +1,2320 @@
+{
+  "name": "GF Greek Expert",
+  "glyphs": [
+    {
+      "codepoints": [
+        884
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        885
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        903
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        894
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        900
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        901
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        947,
+        947
+      ]
+    },
+    {
+      "codepoints": [
+        955,
+        955
+      ]
+    },
+    {
+      "codepoints": [
+        945
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        946
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        947
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        948
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        949
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        950
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        951
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        952
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        953
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        954
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        955
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        956
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        957
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        958
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        959
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        960
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        961
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        963
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        964
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        965
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        966
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        967
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        968
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        969
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        943
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        970
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        912
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        973
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        971
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        944
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        972
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        974
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        940
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        941
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        942
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        987
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        989
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        991
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        993
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        983
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7936
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7937
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7938
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7939
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7940
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7941
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7942
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7943
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8048
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8049
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8118
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8112
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8113
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8115
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8114
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8116
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8064
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8065
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8066
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8067
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8068
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8069
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8070
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8071
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8119
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7952
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7953
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7954
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7955
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7956
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7957
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8050
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8051
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7968
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7969
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7970
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7971
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7972
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7973
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7974
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7975
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8052
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8053
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8134
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8131
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8130
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8132
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8080
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8081
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8082
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8083
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8084
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8085
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8086
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8087
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8135
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7984
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7985
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7986
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7987
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7988
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7989
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7990
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        7991
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8054
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8055
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8150
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8144
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8145
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8146
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8147
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8151
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8000
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8001
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8002
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8003
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8004
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8005
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8056
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8057
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8164
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8165
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8016
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8017
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8018
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8019
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8020
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8021
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8022
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8023
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8058
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8059
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8166
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8160
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8161
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8162
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8163
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8167
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8032
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8033
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8034
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8035
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8036
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8037
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8038
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8039
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8060
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8061
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8182
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8179
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8178
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8180
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8096
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8097
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8098
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8099
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8100
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8101
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8102
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8103
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8183
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8126
+      ],
+      "features": [
+        "smcp"
+      ]
+    },
+    {
+      "codepoints": [
+        8124
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8072
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8073
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8074
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8075
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8076
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8077
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8078
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8079
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8140
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8088
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8089
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8090
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8091
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8092
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8093
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8094
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8095
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8188
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8104
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8105
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8106
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8107
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8108
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8109
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8110
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8111
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8115
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8114
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8116
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8064
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8065
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8066
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8067
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8068
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8069
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8070
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8071
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8119
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8131
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8130
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8132
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8080
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8081
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8082
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8083
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8084
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8085
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8086
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8087
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8135
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8179
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8178
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8180
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8096
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8097
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8098
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8099
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8100
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8101
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8102
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8103
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        8183
+      ],
+      "features": [
+        "smcp",
+        "ss01"
+      ]
+    },
+    {
+      "codepoints": [
+        913
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        914
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        915
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        916
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        917
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        918
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        919
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        920
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        921
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        922
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        923
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        924
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        925
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        926
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        927
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        928
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        929
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        931
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        932
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        933
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        934
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        935
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        936
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        937
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        945
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        946
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        947
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        948
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        949
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        950
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        951
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        952
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        953
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        954
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        955
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        956
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        957
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        958
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        959
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        960
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        961
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        962
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        963
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        964
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        965
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        966
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        967
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        968
+      ],
+      "features": [
+        "sups"
+      ]
+    },
+    {
+      "codepoints": [
+        969
+      ],
+      "features": [
+        "sups"
+      ]
+    }
+  ]
+}
