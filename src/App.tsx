@@ -8,6 +8,11 @@ import { useFontStore } from "./store";
 import { FontInfo } from "./components/font-info";
 import { cn } from "./lib/utils";
 import { ModeToggle } from "./components/mode-toggle";
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipTrigger,
+} from "./components/ui/tooltip";
 
 // Lazy load all coverage components
 const AdobeLatinCoverage = lazy(() =>
@@ -233,7 +238,15 @@ function App() {
     <>
       <div className="space-y-4 mx-auto p-4 container">
         <nav className="flex justify-between items-center space-x-2 mb-4">
-          <h1 className="font-bold text-2xl">Font Coverage Analyzer</h1>
+          <h1 className="font-bold text-2xl">
+            Font Coverage Analyzer{" "}
+            <sup>
+              <Tooltip>
+                <TooltipTrigger aria-label="Alpha">α</TooltipTrigger>
+                <TooltipContent side="right">Alpha</TooltipContent>
+              </Tooltip>
+            </sup>
+          </h1>
           <ModeToggle />
         </nav>
         <FileDrop
