@@ -236,7 +236,10 @@ function App() {
           <h1 className="font-bold text-2xl">Font Coverage Analyzer</h1>
           <ModeToggle />
         </nav>
-        <FileDrop onFile={handleChange} />
+        <FileDrop
+          onFile={handleChange}
+          supportTypeText="Supports TTF, OTF, TTC, WOFF, WOFF2, DFont"
+        />
         <FontInfo handleValueChange={handleFontChange} />
         {/* Encoding coverages */}
         <UnicodeBlockCoverage />
