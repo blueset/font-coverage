@@ -157,7 +157,7 @@ const JfCoverage = lazy(() =>
 );
 
 function App() {
-  const { loadFont, setCollection } = useFontStore();
+  const { loadFont, setCollection, name } = useFontStore();
   const [isPending, startTransition] = useTransition();
 
   const handleChange = (file: File) => {

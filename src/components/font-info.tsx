@@ -1,6 +1,7 @@
 import { useFontStore } from "@/store";
 import { OptionalLink } from "./optional-link";
 import { Select, SelectContent, SelectItem, SelectTrigger } from "./ui/select";
+import { useEffect } from "react";
 
 export interface FontInfoProps {
   handleValueChange?: (value: string) => void;
@@ -8,6 +9,10 @@ export interface FontInfoProps {
 
 export function FontInfo({ handleValueChange }: FontInfoProps) {
   const { font, name, collection } = useFontStore();
+
+  useEffect(() => {
+    document.documentElement.style.setProperty("--font-loaded", `"${name}"`);
+  }, [name]);
 
   if (!name) {
     return null;
@@ -18,12 +23,7 @@ export function FontInfo({ handleValueChange }: FontInfoProps) {
       {collection?.length ? (
         <Select value={name} onValueChange={handleValueChange}>
           <SelectTrigger className="mx-auto mb-4 data-[size=default]:h-auto">
-            <h1
-              className="text-3xl text-center"
-              style={{
-                fontFamily: `"${name}", sans-serif`,
-              }}
-            >
+            <h1 className="font-loaded text-3xl text-center">
               {name} (+{collection.length - 1})
             </h1>
           </SelectTrigger>
@@ -36,14 +36,7 @@ export function FontInfo({ handleValueChange }: FontInfoProps) {
           </SelectContent>
         </Select>
       ) : (
-        <h1
-          className="mb-4 text-3xl text-center"
-          style={{
-            fontFamily: `"${name}", sans-serif`,
-          }}
-        >
-          {name}
-        </h1>
+        <h1 className="mb-4 font-loaded text-3xl text-center">{name}</h1>
       )}
       <div className="items-baseline gap-x-6 gap-y-2 grid grid-cols-[max-content_1fr] mx-auto mb-4 max-w-240">
         {font?.type && (

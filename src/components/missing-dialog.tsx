@@ -55,8 +55,10 @@ function MissingDialog({ children }: { children: React.ReactNode }) {
 
 function GlyphsList({
   glyphs,
+  useLoaded,
 }: {
   glyphs: { codepoints: number[]; features?: string[] }[];
+  useLoaded?: boolean;
 }) {
   return (
     <div
@@ -73,7 +75,10 @@ function GlyphsList({
             )}
           >
             <span
-              className="inline-block min-w-6 text-center"
+              className={cn(
+                "inline-block min-w-6 text-center",
+                useLoaded && "font-loaded"
+              )}
               style={{
                 fontFeatureSettings: glyph.features
                   ?.map((v) => `"${v}" 1`)
@@ -134,14 +139,20 @@ export function MissingGlyphs({
           <GlyphsList glyphs={missingGlyphs} />
         </TabsContent>
         <TabsContent value="included">
-          <GlyphsList glyphs={includedGlyphs ?? []} />
+          <GlyphsList glyphs={includedGlyphs ?? []} useLoaded />
         </TabsContent>
       </Tabs>
     </MissingDialog>
   );
 }
 
-function CodepointsList({ codepoints }: { codepoints: number[] }) {
+function CodepointsList({
+  codepoints,
+  useLoaded,
+}: {
+  codepoints: number[];
+  useLoaded?: boolean;
+}) {
   return (
     <div
       className="max-h-[calc(100vh_-_8rem)] overflow-y-auto"
@@ -156,7 +167,12 @@ function CodepointsList({ codepoints }: { codepoints: number[] }) {
               index > 0 && "border-t border-border"
             )}
           >
-            <span className="inline-block min-w-6 text-center">
+            <span
+              className={cn(
+                "inline-block min-w-6 text-center",
+                useLoaded && "font-loaded"
+              )}
+            >
               {String.fromCodePoint(codepoint)}
             </span>
             <Badge variant="outline" className="rounded-sm font-mono">
@@ -200,7 +216,7 @@ export function MissingCodepoints({
           <CodepointsList codepoints={missingCodepoints} />
         </TabsContent>
         <TabsContent value="included">
-          <CodepointsList codepoints={includedCodepoints ?? []} />
+          <CodepointsList codepoints={includedCodepoints ?? []} useLoaded />
         </TabsContent>
       </Tabs>
     </MissingDialog>
