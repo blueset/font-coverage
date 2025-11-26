@@ -13,6 +13,7 @@ import {
   TooltipContent,
   TooltipTrigger,
 } from "./components/ui/tooltip";
+import { toast } from "sonner";
 
 // Lazy load all coverage components
 const AdobeLatinCoverage = lazy(() =>
@@ -169,38 +170,52 @@ function App() {
         requestAnimationFrame(() => {
           startTransition(() => {
             requestAnimationFrame(() => {
-              const font = Font.create({
-                buffer: content,
-                byteOffset: 0,
-                byteLength: content.byteLength,
-                slice: content.slice.bind(content),
-              } as unknown as Buffer);
-              if (
-                font.type === "TTF" ||
-                font.type === "WOFF" ||
-                font.type === "WOFF2"
-              ) {
-                console.log("Loaded font:", font);
-                const result = parseFont(font);
-                loadFont(font, result.glyphs, result.markAdjacencies);
-                const fontFace = new FontFace(
-                  font.fullName,
-                  `url(${URL.createObjectURL(file)})`
+              try {
+                const font = Font.create({
+                  buffer: content,
+                  byteOffset: 0,
+                  byteLength: content.byteLength,
+                  slice: content.slice.bind(content),
+                } as unknown as Buffer);
+                if (
+                  font.type === "TTF" ||
+                  font.type === "WOFF" ||
+                  font.type === "WOFF2"
+                ) {
+                  console.log("Loaded font:", font);
+                  const result = parseFont(font);
+                  loadFont(font, result.glyphs, result.markAdjacencies);
+                  const fontFace = new FontFace(
+                    font.fullName,
+                    `url(${URL.createObjectURL(file)})`
+                  );
+                  document.fonts.add(fontFace);
+                  fontFace.load();
+                } else if (font.type === "TTC" || font.type === "DFont") {
+                  const font0 = font.fonts[0];
+                  setCollection(font.fonts);
+                  console.log("Loaded TTC fonts[0]:", font0);
+                  const result = parseFont(font0);
+                  loadFont(font0, result.glyphs, result.markAdjacencies);
+                  const fontFace = new FontFace(
+                    font0.fullName,
+                    `url(${URL.createObjectURL(file)})`
+                  );
+                  document.fonts.add(fontFace);
+                  fontFace.load();
+                }
+              } catch (error) {
+                console.error("Failed to load font:", error);
+                toast.error(
+                  `Failed to load font ${file.name}: ${
+                    (error as Error).message
+                  }`,
+                  {
+                    closeButton: true,
+                    duration: Number.POSITIVE_INFINITY,
+                  }
                 );
-                document.fonts.add(fontFace);
-                fontFace.load();
-              } else if (font.type === "TTC" || font.type === "DFont") {
-                const font0 = font.fonts[0];
-                setCollection(font.fonts);
-                console.log("Loaded TTC fonts[0]:", font0);
-                const result = parseFont(font0);
-                loadFont(font0, result.glyphs, result.markAdjacencies);
-                const fontFace = new FontFace(
-                  font0.fullName,
-                  `url(${URL.createObjectURL(file)})`
-                );
-                document.fonts.add(fontFace);
-                fontFace.load();
+                return;
               }
             });
           });

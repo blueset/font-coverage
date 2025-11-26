@@ -15,12 +15,13 @@ export interface CoverageGlyphsProps {
 export function CoverageGlyphs({ glyphSet }: CoverageGlyphsProps) {
   const { glyphsSet: inputGlyphsSet, markAdjacencies } = useFontStore();
 
-  const { coverage, missing } = useMemo(() => {
+  const { coverage, missing, included } = useMemo(() => {
     if (!inputGlyphsSet) {
-      return { coverage: 0, missing: [] };
+      return { coverage: 0, missing: [], included: [] };
     }
     let covered = 0;
     const missingGlyphs = [];
+    const includedGlyphs = [];
     for (const glyph of glyphSet.glyphs) {
       let key = glyph.codepoints.join(",");
       if (glyph.features) {
@@ -28,6 +29,7 @@ export function CoverageGlyphs({ glyphSet }: CoverageGlyphsProps) {
       }
       if (inputGlyphsSet.has(key)) {
         covered++;
+        includedGlyphs.push(glyph);
         continue;
       }
 
@@ -51,13 +53,18 @@ export function CoverageGlyphs({ glyphSet }: CoverageGlyphsProps) {
           inputGlyphsSet.has(codepoints[0].toString())
         ) {
           covered++;
+          includedGlyphs.push(glyph);
           continue;
         }
       }
 
       missingGlyphs.push(glyph);
     }
-    return { coverage: covered, missing: missingGlyphs };
+    return {
+      coverage: covered,
+      missing: missingGlyphs,
+      included: includedGlyphs,
+    };
   }, [glyphSet, inputGlyphsSet, markAdjacencies]);
 
   if (!inputGlyphsSet || !coverage) {
@@ -70,6 +77,7 @@ export function CoverageGlyphs({ glyphSet }: CoverageGlyphsProps) {
       coverage={coverage}
       total={glyphSet.glyphs.length}
       missingGlyphs={missing}
+      includedGlyphs={included}
     />
   );
 }

@@ -16,12 +16,16 @@ export function CoverageItem({
   total,
   missingGlyphs,
   missingCodepoints,
+  includedGlyphs,
+  includedCodepoints,
 }: {
   name: string;
   coverage: number;
   total: number;
   missingGlyphs?: { codepoints: number[]; features?: string[] }[];
   missingCodepoints?: number[];
+  includedGlyphs?: { codepoints: number[]; features?: string[] }[];
+  includedCodepoints?: number[];
 }) {
   return (
     <Item variant="outline">
@@ -38,12 +42,18 @@ export function CoverageItem({
       </ItemContent>
       {missingGlyphs?.length ? (
         <ItemActions>
-          <MissingGlyphs missingGlyphs={missingGlyphs} />
+          <MissingGlyphs
+            missingGlyphs={missingGlyphs}
+            includedGlyphs={includedGlyphs}
+          />
         </ItemActions>
       ) : null}
       {missingCodepoints?.length ? (
         <ItemActions>
-          <MissingCodepoints missingCodepoints={missingCodepoints} />
+          <MissingCodepoints
+            missingCodepoints={missingCodepoints}
+            includedCodepoints={includedCodepoints}
+          />
         </ItemActions>
       ) : null}
       <ItemFooter>
