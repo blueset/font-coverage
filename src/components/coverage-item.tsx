@@ -3,13 +3,10 @@ import {
   ItemActions,
   ItemContent,
   ItemDescription,
-  ItemFooter,
   ItemTitle,
 } from "@/components/ui/item";
-import { Progress } from "./ui/progress";
 import { MissingCodepoints, MissingGlyphs } from "./missing-dialog";
 import { cn } from "@/lib/utils";
-import { useTheme } from "next-themes";
 import { Check } from "lucide-react";
 
 export function CoverageItem({
