@@ -9,6 +9,8 @@ import {
 import { Progress } from "./ui/progress";
 import { MissingCodepoints, MissingGlyphs } from "./missing-dialog";
 import { cn } from "@/lib/utils";
+import { useTheme } from "next-themes";
+import { Check } from "lucide-react";
 
 export function CoverageItem({
   name,
@@ -27,45 +29,66 @@ export function CoverageItem({
   includedGlyphs?: { codepoints: number[]; features?: string[] }[];
   includedCodepoints?: number[];
 }) {
-  return (
-    <Item variant="outline">
+  const item = (
+    <Item variant="outline" className="p-3">
+      <ItemActions>
+        <div
+          className={cn(
+            "bg-muted rounded-full size-10",
+            coverage === total && "bg-green-700 dark:bg-green-300"
+          )}
+        >
+          {coverage === total ? (
+            <Check className="m-2.5 size-5 text-green-200 dark:text-green-900" />
+          ) : (
+            <div
+              className="rounded-full size-full"
+              style={{
+                backgroundImage: `conic-gradient(var(--foreground) 0% ${
+                  (coverage / total) * 100
+                }%, var(--muted) ${(coverage / total) * 100}% 100%)`,
+              }}
+            >
+              <div className="place-content-center size-full font-medium text-white text-center mix-blend-difference">
+                {Math.max(1, Math.min((coverage / total) * 100, 99)).toFixed(0)}
+                <small>%</small>
+              </div>
+            </div>
+          )}
+        </div>
+      </ItemActions>
       <ItemContent>
-        <ItemTitle className="flex flex-wrap gap-y-0 w-full min-h-8">
-          {name}
-          <ItemDescription className="inline-flex justify-between gap-4 grow">
+        <ItemTitle className="flex justify-stretch items-center gap-y-0 w-full min-h-8">
+          <span className="grow">{name}</span>
+          <ItemDescription className="shrink-0">
             <span>
               {coverage} / {total}
             </span>
-            <span>{((coverage / total) * 100).toFixed(0)}%</span>
           </ItemDescription>
         </ItemTitle>
       </ItemContent>
-      {missingGlyphs?.length ? (
-        <ItemActions>
-          <MissingGlyphs
-            missingGlyphs={missingGlyphs}
-            includedGlyphs={includedGlyphs}
-          />
-        </ItemActions>
-      ) : null}
-      {missingCodepoints?.length ? (
-        <ItemActions>
-          <MissingCodepoints
-            missingCodepoints={missingCodepoints}
-            includedCodepoints={includedCodepoints}
-          />
-        </ItemActions>
-      ) : null}
-      <ItemFooter>
-        <Progress
-          value={(coverage / total) * 100}
-          className={cn(
-            "w-full",
-            coverage === total &&
-              "**:data-[slot='progress-indicator']:bg-green-700 dark:**:data-[slot='progress-indicator']:bg-green-300"
-          )}
-        />
-      </ItemFooter>
     </Item>
   );
+
+  if (missingGlyphs?.length || includedGlyphs?.length) {
+    return (
+      <MissingGlyphs
+        missingGlyphs={missingGlyphs ?? []}
+        includedGlyphs={includedGlyphs}
+      >
+        {item}
+      </MissingGlyphs>
+    );
+  } else if (missingCodepoints?.length || includedCodepoints?.length) {
+    return (
+      <MissingCodepoints
+        missingCodepoints={missingCodepoints ?? []}
+        includedCodepoints={includedCodepoints}
+      >
+        {item}
+      </MissingCodepoints>
+    );
+  } else {
+    return item;
+  }
 }

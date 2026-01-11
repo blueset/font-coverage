@@ -29,22 +29,20 @@ function PUABadge({ codepoints }: { codepoints: number[] }) {
   );
 }
 
-function MissingDialog({ children }: { children: React.ReactNode }) {
+function MissingDialog({
+  children,
+  trigger,
+}: {
+  children: React.ReactNode;
+  trigger: React.ReactNode;
+}) {
   return (
     <Dialog>
       <Tooltip>
         <DialogTrigger asChild>
-          <TooltipTrigger asChild>
-            <Button
-              variant="ghost"
-              size="icon-sm"
-              aria-label="View missing items"
-            >
-              <Binoculars />
-            </Button>
-          </TooltipTrigger>
+          <TooltipTrigger asChild>{trigger}</TooltipTrigger>
         </DialogTrigger>
-        <TooltipContent side="left">
+        <TooltipContent side="bottom">
           <p>View Missing Items</p>
         </TooltipContent>
       </Tooltip>
@@ -112,12 +110,14 @@ function GlyphsList({
 export function MissingGlyphs({
   missingGlyphs,
   includedGlyphs,
+  children,
 }: {
   missingGlyphs: { codepoints: number[]; features?: string[] }[];
   includedGlyphs?: { codepoints: number[]; features?: string[] }[];
+  children: React.ReactNode;
 }) {
   return (
-    <MissingDialog>
+    <MissingDialog trigger={children}>
       <Tabs
         defaultValue={
           missingGlyphs.length > (includedGlyphs?.length ?? 0)
@@ -189,12 +189,14 @@ function CodepointsList({
 export function MissingCodepoints({
   missingCodepoints,
   includedCodepoints,
+  children,
 }: {
   missingCodepoints: number[];
   includedCodepoints?: number[];
+  children: React.ReactNode;
 }) {
   return (
-    <MissingDialog>
+    <MissingDialog trigger={children}>
       <Tabs
         defaultValue={
           missingCodepoints.length > (includedCodepoints?.length ?? 0)
